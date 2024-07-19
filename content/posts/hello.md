@@ -2,7 +2,7 @@
 title: Hello
 subtitle:
 date: 2024-07-19T21:50:51+08:00
-slug: b12471f
+slug: test
 draft: true
 author:
   name:
@@ -48,4 +48,4 @@ Hello, World!
 
 这是一篇测试文档，测试主题效果。
 
-
+## ysj test
