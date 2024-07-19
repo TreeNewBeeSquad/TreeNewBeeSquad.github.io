@@ -1,0 +1,5 @@
+baseURL = 'https://TreeNewBeeSquad.github.io'
+languageCode = 'zh-cn'
+title = 'TreeNewBeeSquad`s Site'
+
+theme = "FixIt"
