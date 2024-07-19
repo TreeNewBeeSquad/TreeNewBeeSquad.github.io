@@ -5,5 +5,13 @@
     <description>TreeNewBeeSquad`s Site</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 19 Jul 2024 21:50:51 &#43;0800</lastBuildDate>
       <atom:link href="https://TreeNewBeeSquad.github.io/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+    <item>
+  <title>Hello</title>
+  <link>https://TreeNewBeeSquad.github.io/posts/b12471f/</link>
+  <pubDate>Fri, 19 Jul 2024 21:50:51 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>https://TreeNewBeeSquad.github.io/posts/b12471f/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
